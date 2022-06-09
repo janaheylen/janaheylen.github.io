@@ -23,8 +23,9 @@ body{
 }
 
   .container{
-    width: 80%;
+    width: 35%;
     margin: auto;
+    margin-left: 800px;
   }
 
   .container-2{
@@ -36,9 +37,9 @@ body{
 
     border:5px Linen solid;
     padding: 20px;
-    margin: 15px;
+    margin: 10px;
 
-    text-align: justify;
+    text-align: left;
     }
 
   .box-2{
