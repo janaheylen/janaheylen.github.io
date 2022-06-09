@@ -36,7 +36,8 @@ body{
     background-color: lightslategrey;
 
     border:5px Linen solid;
-    padding: 20px;
+    border-radius: 70px;
+    padding: 30px;
     margin: 10px;
 
     text-align: left;
@@ -55,6 +56,16 @@ body{
     text-align: center;
     padding: 10px;
     color: orange;
+    border-radius: 20px;
+  }
+
+  .box-4{
+    background-color: LemonChiffon;
+    text-align: center;
+    margin-left: 90%;
+    padding: 5px;
+    color: Orange;
+    border-radius: 30px;
   }
 
   .categories h2{text-align: right;}
