@@ -1,0 +1,92 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+a{
+  color: Linen;
+  text-decoration: none;
+}
+
+a:hover{color:wheat}
+
+body{
+  background: LightSteelBlue;
+  color: Linen;
+
+  font-family: Tahoma, arial, serif;
+  font-size: 15px;
+  font-weight: normal;
+
+
+  line-height: 2em;
+}
+
+  .container{
+    width: 80%;
+    margin: auto;
+  }
+
+  .container-2{
+    width: 23%;
+  }
+
+  .box-1{
+    background-color: tan;
+
+    border:5px Linen solid;
+    padding: 20px;
+    margin: 15px;
+
+    text-align: justify;
+    }
+
+  .box-2{
+    background-color: burlywood;
+    border: 5px dotted linen;
+    padding: 30px;
+    margin: 15px;
+    text-align: justify;
+  }
+
+  .box-3{
+    background-color: LemonChiffon;
+    text-align: center;
+    padding: 10px;
+    color: orange;
+  }
+
+  .categories h2{text-align: right;}
+
+  .categories ul{
+    list-style: none;
+    text-align: right;
+  }
+
+  .zonnetje{
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 0px;
+  }
+
+  #circle {
+     width: 1000px;
+     height: 1000px;
+     -webkit-border-radius: 500px;
+     -moz-border-radius: 500px;
+     border-radius: 500px;
+
+     background: orange;
+   }
+
+   .topnav a {
+     float: right;
+     color: Linen;
+     text-align: right;
+     padding: 150px;
+     text-decoration: none;
+     font-size: 20px;}
+
+   .topnav a:hover {
+      color: orange;
